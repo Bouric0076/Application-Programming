@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bouri\\Application-Programming\\Application-Programming.csproj": {}
+    "c:\\Users\\bouri\\Application-Programming\\Application-Programming.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bouri\\Application-Programming\\Application-Programming.csproj": {
+    "c:\\Users\\bouri\\Application-Programming\\Application-Programming.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bouri\\Application-Programming\\Application-Programming.csproj",
+        "projectUniqueName": "c:\\Users\\bouri\\Application-Programming\\Application-Programming.csproj",
         "projectName": "Application-Programming",
-        "projectPath": "C:\\Users\\bouri\\Application-Programming\\Application-Programming.csproj",
+        "projectPath": "c:\\Users\\bouri\\Application-Programming\\Application-Programming.csproj",
         "packagesPath": "C:\\Users\\bouri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bouri\\Application-Programming\\obj\\",
+        "outputPath": "c:\\Users\\bouri\\Application-Programming\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

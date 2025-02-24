@@ -1,0 +1,15 @@
+c:\Users\bouri\Application-Programming\bin\Debug\net9.0\Application-Programming.exe
+c:\Users\bouri\Application-Programming\bin\Debug\net9.0\Application-Programming.deps.json
+c:\Users\bouri\Application-Programming\bin\Debug\net9.0\Application-Programming.runtimeconfig.json
+c:\Users\bouri\Application-Programming\bin\Debug\net9.0\Application-Programming.dll
+c:\Users\bouri\Application-Programming\bin\Debug\net9.0\Application-Programming.pdb
+c:\Users\bouri\Application-Programming\obj\Debug\net9.0\Application-Programming.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\bouri\Application-Programming\obj\Debug\net9.0\Application-Programming.AssemblyInfoInputs.cache
+c:\Users\bouri\Application-Programming\obj\Debug\net9.0\Application-Programming.AssemblyInfo.cs
+c:\Users\bouri\Application-Programming\obj\Debug\net9.0\Application-Programming.csproj.CoreCompileInputs.cache
+c:\Users\bouri\Application-Programming\obj\Debug\net9.0\Application-Programming.sourcelink.json
+c:\Users\bouri\Application-Programming\obj\Debug\net9.0\Application-Programming.dll
+c:\Users\bouri\Application-Programming\obj\Debug\net9.0\refint\Application-Programming.dll
+c:\Users\bouri\Application-Programming\obj\Debug\net9.0\Application-Programming.pdb
+c:\Users\bouri\Application-Programming\obj\Debug\net9.0\Application-Programming.genruntimeconfig.cache
+c:\Users\bouri\Application-Programming\obj\Debug\net9.0\ref\Application-Programming.dll
